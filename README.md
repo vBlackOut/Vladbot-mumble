@@ -7,6 +7,8 @@ This bot provides a text bridge between an IRC channel and a Mumble server.
 You can directly run vladbot by typing `./run` or `python2 -m vladbot`.
 To permanently install vladbot, type `sudo ./setup.py install`. Then, you can run it by typing `vladbot`.
 
+use `./install.sh` for install all Dependencies
+
 You need to provide a config file that (among others) contains user credentials for the bot. An example conf file can be found in `vladbot.conf.example`.
 
 You can either specify a conf file path as a command line argument (`vladbot myconffile.conf`), or place it at `./vladbo.conf` or `/etc/vladbot.conf`.
