@@ -11,7 +11,7 @@ use `./install.sh` for install all Dependencies
 
 You need to provide a config file that (among others) contains user credentials for the bot. An example conf file can be found in `vladbot.conf.example`.
 
-You can either specify a conf file path as a command line argument (`vladbot myconffile.conf`), or place it at `./vladbo.conf` or `/etc/vladbot.conf`.
+You can either specify a conf file path as a command line argument (`vladbot myconffile.conf`), or place it at `./vladbot.conf` or `/etc/vladbot.conf`.
 
 ### Behaviour
 
