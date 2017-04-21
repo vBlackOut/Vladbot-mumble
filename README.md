@@ -1,6 +1,6 @@
 ### Description
 
-This bot provides a text bridge between an IRC channel and a Mumble server.
+This bot provides a text bridge between an Mumble server.
 
 ### How to install/configure/run
 
@@ -17,7 +17,7 @@ You can either specify a conf file path as a command line argument (`vladbot myc
 
 By default, the bot
 
-- Relays messages from a mumble channel to an IRC channel
+- Relays messages from a mumble channel
 - Leaves the channel when somebody types 'gtfo'
 - Tries to reconnect on connection failures
 
