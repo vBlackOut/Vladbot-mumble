@@ -1,3 +1,3 @@
 #!/bin/bash
-exec env python2 -m sftbot "$@"
+exec env python2 -m vladbot "$@"
 
