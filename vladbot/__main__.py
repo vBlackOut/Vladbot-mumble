@@ -118,7 +118,7 @@ def mumbleConnectionFailed():
 
 
 def main():
-    print("vladbot mumble bot " + sftbot.VERSION)
+    print("vladbot mumble bot " + vladbot.VERSION)
 
     global mumble
     global irc
