@@ -10,7 +10,7 @@ if version_info[0] != 2:
     exit(1)
 
 pb_filename = path.join(path.dirname(__file__),
-                        "sftbot/protobuf/Mumble_pb2.py")
+                        "vladbot/protobuf/Mumble_pb2.py")
 if not path.isfile(pb_filename):
     print("Mumble_pb2.py has not been generated yet.\nrun make first.")
     exit(1)
