@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 
 from distutils.core import setup
-from sftbot import VERSION
+from vladbot import VERSION
 from sys import version_info
 from os import path
 
