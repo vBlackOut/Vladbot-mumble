@@ -6,7 +6,7 @@ import ConsoleConnection
 import time
 import ConfigParser
 import os.path
-import sftbot
+import vladbot
 import datetime
 from difflib import SequenceMatcher
 from wikiapi import WikiApi

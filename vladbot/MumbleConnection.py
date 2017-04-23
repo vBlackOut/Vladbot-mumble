@@ -7,7 +7,7 @@ import ssl
 import platform
 import struct
 import thread
-import sftbot.protobuf.Mumble_pb2 as pb2
+import vladbot.protobuf.Mumble_pb2 as pb2
 
 messageTypes = {
     0: pb2.Version,
